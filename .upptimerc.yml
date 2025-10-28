@@ -4,8 +4,8 @@ repo:  dgbt-statuspage
 
 sites:
   - name: DGBT HP
-    url: https://www.dgbt.jp/
-    port: 80
+    url: https://www.dgbt.jp
+    port: 443
     check: "tcp-ping"
     ipv6: true
 
