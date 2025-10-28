@@ -5,6 +5,8 @@ repo:  dgbt-statuspage
 sites:
   - name: DGBT HP
     url: https://www.dgbt.jp
+  - name: Digital Garage HP
+    url: https://www.garage.co.jp
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
