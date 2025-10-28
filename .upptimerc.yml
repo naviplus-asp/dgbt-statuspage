@@ -5,9 +5,6 @@ repo:  dgbt-statuspage
 sites:
   - name: DGBT HP
     url: https://www.dgbt.jp
-    port: 443
-    check: "tcp-ping"
-    ipv6: true
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
