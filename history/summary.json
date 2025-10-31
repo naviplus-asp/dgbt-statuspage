@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.dgbt.jp.ico",
     "slug": "dgbt-hp",
     "status": "up",
-    "uptime": "99.80%",
+    "uptime": "99.87%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.80%",
-    "uptimeMonth": "99.80%",
-    "uptimeYear": "99.80%",
-    "time": 285,
-    "timeDay": 330,
-    "timeWeek": 285,
-    "timeMonth": 285,
-    "timeYear": 285,
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.87%",
+    "time": 273,
+    "timeDay": 199,
+    "timeWeek": 273,
+    "timeMonth": 273,
+    "timeYear": 273,
     "dailyMinutesDown": {
       "2025-10-28": 5
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1074,
-    "timeDay": 877,
-    "timeWeek": 1074,
-    "timeMonth": 1074,
-    "timeYear": 1074,
+    "time": 1099,
+    "timeDay": 1174,
+    "timeWeek": 1099,
+    "timeMonth": 1099,
+    "timeYear": 1099,
     "dailyMinutesDown": {}
   }
 ]
