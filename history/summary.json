@@ -33,17 +33,19 @@
     "url": "https://www.garage.co.jp",
     "icon": "https://icons.duckduckgo.com/ip3/www.garage.co.jp.ico",
     "slug": "digital-garage-hp",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1116,
-    "timeDay": 1131,
-    "timeWeek": 1083,
-    "timeMonth": 1243,
-    "timeYear": 1116,
-    "dailyMinutesDown": {}
+    "time": 1108,
+    "timeDay": 809,
+    "timeWeek": 1008,
+    "timeMonth": 1220,
+    "timeYear": 1108,
+    "dailyMinutesDown": {
+      "2026-01-17": 0
+    }
   }
 ]
