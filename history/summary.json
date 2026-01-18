@@ -11,9 +11,9 @@
     "uptimeMonth": "99.66%",
     "uptimeYear": "99.81%",
     "time": 281,
-    "timeDay": 151,
-    "timeWeek": 299,
-    "timeMonth": 275,
+    "timeDay": 350,
+    "timeWeek": 309,
+    "timeMonth": 277,
     "timeYear": 281,
     "dailyMinutesDown": {
       "2025-12-28": 16,
@@ -34,18 +34,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.garage.co.jp.ico",
     "slug": "digital-garage-hp",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
-    "time": 1111,
-    "timeDay": 993,
-    "timeWeek": 1047,
-    "timeMonth": 1224,
-    "timeYear": 1111,
-    "dailyMinutesDown": {
-      "2026-01-17": 9
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1113,
+    "timeDay": 1050,
+    "timeWeek": 1057,
+    "timeMonth": 1231,
+    "timeYear": 1113,
+    "dailyMinutesDown": {}
   }
 ]
